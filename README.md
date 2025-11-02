@@ -10,6 +10,8 @@ It demonstrates how to quickly create a clean, centered login interface that loo
  Dark Mode Ready: Easily customizable for light/dark themes
  Minimal & Reusable: No extra CSS — pure Tailwind utilities
 # Technologies Used
-HTML5 – Markup structure
-Tailwind CSS – Styling and layout
+HTML5 – Markup structure.
+
+Tailwind CSS – Styling and layout.
+
 (Optional) Vite / CDN Setup – For quick configuration
